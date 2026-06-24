@@ -1,1 +1,1 @@
-diff text from master
+ Решение кофликта
